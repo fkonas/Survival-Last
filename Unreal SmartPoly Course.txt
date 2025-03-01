@@ -1,0 +1,240 @@
+//1/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 1. Getting Started // -----------------------------
+/*
+Lecture 1. Introduction  -> OK
+Lecture 2. Installing The Epic Games Launcher -> OK
+Lecture 3. Installing Unreal Engine 5 -> OK
+Lecture 4. Create the Project -> OK
+Lecture 5. Unreal Engine 5 Editor Overview -> OK
+Lecture 6. Introduction to Blueprint  -> OK
+Lecture 7. Setup Source Control -> OK
+
+Lecture 8. Setting up Our Custom Character - Part 1 -> OK
+// Karakterin Oluşturulması
+
+Lecture 9. Setting up Our Custom Character - Part 2 -> OK
+// Karakter Animasyon ve Anim Blueprintlerin oluşturulması
+
+Lecture 10. Replication / Multiplayer Basics -> OK
+Lecture 11. Unreal Engine Class Framework Explained -> OK
+Lecture 12. Push Changes to Source Control ->
+*/
+
+//2/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 2. Building the Inventory System framework // -----------------------------
+/*
+
+Lecture 13 - Inventory System Introduction -> OK
+// Inventory Sistemine giriş
+
+Lecture 14 - Creating the Item Info Structure & Our First Item -> OK
+// Crafting sistemi için tablolar ve bu tablolara değişkenler oluşturuyor.
+
+Lecture 15 - Creating the Inventory Component & Array -> OK
+// Inventory Componentler ve Arrayler
+
+Lecture 16 - Creating the Main Widget / HUD -> OK
+// Main Widget Oluşturma
+
+Lecture 17 - Creating the Inventory Widget -> OK
+// Inventory Widget Oluşturma
+
+Lecture 18 - Creating the Inventory Slot Widget -> OK
+// Inventory Slot Widget
+
+Lecture 19 - Creating the Container Grid Widget -> OK
+// Creating Container Grid Widget
+
+Lecture 20 - Linking the Inventory Component with the UI -> OK
+// Inventory Component Linkleri Bağlamak
+
+Lecture 21 - Intro to Drag and Drop -> OK
+
+Lecture 22 - Setting Up Drag and Drop Part 1 -> OK
+// Drag and Drop System Yapımı
+
+Lecture 23 - Setting up Drag and Drop Part 2 -> OK
+// Setting up Drag Drop System
+
+Lecture 24 - Setting up Drag and Drop Part 3 -> OK
+// Setting up Drag Drop System Finished And its working perfectly
+
+*/
+
+//3/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 3. Player Hotbar & Creating a Hatchet Equipable // -----------------------------
+/*
+Lecture 25 - Hotbar System Introduction -> OK
+// Hotbar System Design
+
+Lecture 26 - Setting up The Hotbar Widget -> OK
+// Hotbar Widget Setting
+
+Lecture 27 - Setting up The Hotbar Inventory Component -> OK
+// Hotbar Setting on Character
+
+Lecture 28 - Creating our Equippable Master Class -> OK
+// Equipable blueprintlerin oluşturulması
+
+Lecture 29 - Setting up the Hatchet Equipable Class -> OK
+// Hatchet Equipable Sınıflarının oluşturulması
+
+Lecture 30 - Setting Up Hotbar Equip Item Part 1 -> OK
+// Hotbar Equip Ayarları 1
+
+Lecture 31 - Setting Up Hotbar Equip Item Part 2 - OK
+// Hotbar Equip Ayarları 2
+
+Lecture 32 - Setup Hotbar Dequip Item -> OK
+// Hotbar Dequip Setup
+
+Lecture 33 -Setting Up Hatchet Chop and Swing -> OK
+// Hatchet Chop and Swing Ayarları
+
+Lecture 34 - Creating Harvesting Master Classes and Palm Trees -> OK
+// Creating Harvesting Master Class and Palm Trees Setup
+
+Lecture 35 - Adding Harvesting to Our Palm Trees -> OK
+// Adding Harvesting Our Palm Trees
+
+Lecture 36 - Adding Harvesting Item Notification -> OK
+// Adding Harvesting Item Ayarları..
+
+Lecture 37 - Creating the Palm Tree Destructable Actor -> OK
+// Creating the Palm Tree Destructable Actor...
+
+Lecture 38 - Adding Drag and Drop from Inventory To Hotbar -> OK
+// Adding Drag and Drop from Inventroy to Hotbar
+
+*/
+
+
+//4/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 4. Creating The Harvesting System // -----------------------------
+/*
+
+Lecture 39 - Intro To Chapter 4 -> OK
+// Chapter 4 Introduction
+
+Lecture 40 - Setting up Palm Tree Dissolve Material -> OK
+// Setting up Palm Tree Dissolve Material its work perfectly
+
+Lecture 41 - Setting up Pickaxe Equipable Item -> OK
+// Setting up Pickaxe Equipable Item its working perfectly
+
+Lecture 42 - Setting up Advanced Harvesting Calculation -> OK,
+// Setting up Advanced Harvesting Calculation its working perfectly
+
+Lecture 43 - Setting up a Rock Harvestable Class -> OK
+// Setting up Rock Harvestable Class
+
+Lecture 44 - Setting up Bush Harvestable Class -> OK
+// Setting up Bush Harvestable Class.
+
+Lecture 45 - Fixing our Animation Blueprint -> OK
+// Fixing Animation Blueprint
+
+Lecture 46 - Implementing Item Stacking in Add Item Function -> OK
+// Implementing Item Stacking in Add Item Function
+
+Lecture 47 - Adding Harvesting VFX and Sounds -> OK
+// Adding Harvesting VFX and Sounds
+
+Lecture 48 - Fixing Bush Harvestable and Adding FX -> OK
+// Fixing Bush Harvestable and Adding FX
+
+Lecture 49 - Adding Actor Foliage for Foliage Painting -> OK
+// Adding Actor Foliage for Foliage Painting
+
+*/
+
+
+//5/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 5. Creating the Crafting System // -----------------------------
+/*
+
+Lecture 50 - Intro to Player Crafting System -> OK
+// Player Crafting System Intro..
+
+Lecture 51 - Creating Crafting Slot and Container Widgets -> OK
+// Creating Crafting Slot and Container Widgets
+
+Lecture 52 - Creating the Crafting Window Widget Part 1 -> OK
+// Creating the Crafting Window Widget Part 1
+
+Lecture 53 - Creating The Crafting Window Widget Part 2 -> OK
+// Creating The Crafting Window Widget Part 2 its working perfectly
+
+Lecture 54 - Setting Up the Crafting Window Info -> OK
+// Setting Up the Crafting Window Info..
+
+Lecture 55 - Setting up Can Craft Function Part 1 -> OK
+// Setting up Can Craft Function part 1
+
+Lecture 56 - Setting up the Crafting Function Part 2 -> OK
+// Setting up the Crafting Funtion part 2
+
+Lecture 57 - Setting up Crafting Progress Bar -> OK
+// Setting up Crafting Progress Bar
+
+Lecture 58 - Fixing Crafting System Bugs -> OK
+// Fixing Crafting System Bugs
+
+*/
+
+//6/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 6. // -----------------------------
+/*
+
+Lecture 59 - Into to Player Stats Chapter -> OK
+
+Lecture 60 - Setting up the Player Stats Widget -> OK
+
+Lecture 61 - Setting up Health Bar and Damage -> OK
+
+Lecture 62 - Setting up Passive Food and Water Stat Drain -> OK
+
+Lecture 63 - Adding Starving and Dehydration -> OK
+
+Lecture 64 - Setting up Stamina Drain -> OK
+// Drain and Regenerate Stamina Updates
+
+Lecture 65 - Setting up Sprinting -> OK
+// Setting up Sprinting when sprinting or joging is stamina bar less or greater..
+
+Lecture 66 - Setting up Consumable Items Part 1 -> OK
+
+Lecture 67 - Setting up Consumable Items Part 2 -> OK
+
+Lecture 68 - Setting up Player Stats Info Window Widget -> OK
+
+Lecture 69 - Updating Player Stats Info Window -> OK
+
+Lecture 70 - Setting up Experience & Leveling -> OK
+
+Lecture 71 - Setting up Experience & Leveling Notifications -> OK
+
+Lecture 72 - Setting up Skill Points -> OK
+
+*/
+
+
+
+
+//6/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 7. // -----------------------------
+/*
+
+Lecture 73 - Introduction to Armor Equipables -> OK
+
+Lecture 74 - Creating Armor Slot Widgets -> OK
+
+
+*/
