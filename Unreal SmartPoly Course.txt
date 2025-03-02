@@ -189,7 +189,7 @@ Lecture 58 - Fixing Crafting System Bugs -> OK
 
 //6/////////////////////////////////////////////////////////////////////////////////////
 
-// Chapter 6. // -----------------------------
+// Chapter 6. Creating the Player Stats // -----------------------------
 /*
 
 Lecture 59 - Into to Player Stats Chapter -> OK
@@ -229,12 +229,31 @@ Lecture 72 - Setting up Skill Points -> OK
 
 //6/////////////////////////////////////////////////////////////////////////////////////
 
-// Chapter 7. // -----------------------------
+// Chapter 7. Creating Armor Equipables // -----------------------------
 /*
 
 Lecture 73 - Introduction to Armor Equipables -> OK
 
 Lecture 74 - Creating Armor Slot Widgets -> OK
+
+Lecture 75 - Creating the Armor Item Classes -> OK
+
+Lecture 76 - Setting up Equip Armor Function -> OK
+
+Lecture 77 - Setting up Dequip Armor Function -> OK
+
+Lecture 78 - Setting up Player Window Blueprint Part 1 -> OK
+
+Lecture 79 - Setting up Player Window Blueprint Part 2 -> OK
+
+Lecture 80 - Setting up Player Window Blueprint Part 3 -> OK
+
+Lecture 81 - Adding Armor Damage Reduction -> OK
+
+Lecture 82 - Adding Armor Durablity and Updating Item Slot Widget -> OK
+
+Lecture 83 - Fixing Item Drag Widget -> OK
+
 
 
 */
