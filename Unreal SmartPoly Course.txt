@@ -227,7 +227,7 @@ Lecture 72 - Setting up Skill Points -> OK
 
 
 
-//6/////////////////////////////////////////////////////////////////////////////////////
+//7/////////////////////////////////////////////////////////////////////////////////////
 
 // Chapter 7. Creating Armor Equipables // -----------------------------
 /*
@@ -253,6 +253,42 @@ Lecture 81 - Adding Armor Damage Reduction -> OK
 Lecture 82 - Adding Armor Durablity and Updating Item Slot Widget -> OK
 
 Lecture 83 - Fixing Item Drag Widget -> OK
+
+*/
+
+
+//8/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 8. Creating the Building System // -----------------------------
+/*
+
+Lecture 84 - Building System Introduction
+Lecture 85 - Creating the Building System Master Class
+Lecture 86 - Creating the Building System Component and Build Preview
+Lecture 87 - Build Preview Color and Place Buildable Down
+Lecture 88 - Build Collision Check and On Server Check
+Lecture 89 - Implementing Grid Snapping
+Lecture 90 - Adding Walls and Switch Buildable Debug
+Lecture 91 - Adding Ceilings and Fixing Build Switch Debug
+Lecture 92 - Is Build Floating Check
+Lecture 93 - Adding Doors and Windows
+Lecture 94 - Adding Triangle Foundations
+Lecture 95 - Adding Ramp and Fence Buildable
+Lecture 96 - Adding Triangle Ceilings
+Lecture 97 - Adding an Interactable Torch
+Lecture 98 - Adding Stairs and a Bed
+Lecture 99 - Left and Right Triangle Wall and Roof Buildable
+Lecture 100 - Adding Half Roof Buildable
+Lecture 101 - Adding Buildable Damage and Destruction
+Lecture 102 - Adding Collateral Damage Part 1
+Lecture 103 - Collateral Damage Part 2
+Lecture 104 - Collateral Damage Part 3
+Lecture 105 - Fixing Floating Ceilings
+Lecture 106 - Adding Buildable Info Widget
+Lecture 107 - Adding Demolish Build
+Lecture 108 - Integrating Building System With Inventory System
+Lecture 109 - Adding All Buildable Items and Classes
+Lecture 110 - Bug Fixes and Cleanup
 
 
 
