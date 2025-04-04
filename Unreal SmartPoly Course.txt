@@ -290,6 +290,32 @@ Lecture 108 - Integrating Building System With Inventory System
 Lecture 109 - Adding All Buildable Items and Classes
 Lecture 110 - Bug Fixes and Cleanup
 
+*/
+
+//9/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 9. Creating Storage Containers // -----------------------------
+/*
+
+Lecture 111 - Introduction to Chapter 9
+Lecture 112 - Creating the Storage Widget and Classes
+Lecture 113 - Setting up Storage Buildable Interact
+Lecture 114 - Adding Drag and Drop to Storage Containers
+Lecture 115 - Finishing our Storage Box Container
+Lecture 116 - Creating the Crafting Bench
+Lecture 117 - Creating the Advanced Workbench
+Lecture 118 - Creating the Smelting Forge
+Lecture 119 - Adding the Cooking Pot
+Lecture 120 - Adding Structure Items & Crafting Recipes
+Lecture 121 - Adding Structure Destruction & Inventory Bag
+Lecture 121 - Adding Structure Destruction & Inventory Bag
+Lecture 123 - Adding Split Item Stack
+Lecture 124 - Adding Item Stacking
+Lecture 125 - Adding Swap Items
+
+
+
 
 
 */
+
