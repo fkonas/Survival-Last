@@ -313,6 +313,33 @@ Lecture 123 - Adding Split Item Stack
 Lecture 124 - Adding Item Stacking
 Lecture 125 - Adding Swap Items
 
+*/
+
+
+//10/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 10. Creating All The Items // -----------------------------
+/*
+
+Lecture 126 - Introduction to Chapter 10
+Lecture 127 - Setting up Rifle Animation & Item Class
+Lecture 128 - Setting up Rifle Firing Part 1
+Lecture 129 - Setting up Rifle Firing Part 2
+Lecture 130 - Setting up Rifle Reload & Ammunition
+Lecture 131 - Use Rifle Durability Damage
+Lecture 132 - Setting up our Rocket Launcher Item
+Lecture 133 - Setting up Rocket Launcher Firing Part 1
+Lecture 134 - Setting up Rocket Launcher Firing Part 2
+Lecture 135 - Setting up The Rocket Launcher Projectile
+Lecture 136 - Setting up Rocket Launcher Reload
+Lecture 137 - Setting up Bow Item Class
+Lecture 138 - Setting up Bow Firing
+Lecture 139 - Setting up Arrow Projectile & Trail FX
+Lecture 140 - Setting up Bow Reload
+Lecture 141 - Setting up the Spear Item part 1
+Lecture 142 - Setting up the Spear Part 2
+Lecture 143 - Setting up the Rock Item
+Lecture 144 - Creating the Iron Hatchet & Pickaxe
 
 
 
