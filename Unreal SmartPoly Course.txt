@@ -341,8 +341,30 @@ Lecture 142 - Setting up the Spear Part 2
 Lecture 143 - Setting up the Rock Item
 Lecture 144 - Creating the Iron Hatchet & Pickaxe
 
+*/
 
 
+//11/////////////////////////////////////////////////////////////////////////////////////
+
+// Chapter 11. Creating Tribe Widgets // -----------------------------
+/*
+
+Lecture 145 - Introduction to Chapter 11
+Lecture 146 - Creating the Tribe Widgets
+Lecture 147 - Showing the Tribe Window Widget
+Lecture 148 - Creating a Tribe Part 1
+Lecture 149 - Update Tribe Window Widget
+Lecture 150 - Setting up Tribe Invite
+Lecture 151 - Setting up Tribe Join
+Lecture 152 - Setting up the Tribe Log
+Lecture 153 - Demote Tribe Member
+Lecture 154 - Promote Kick and Leave Tribe
+Lecture 155 - Tribe Message of The Day
+Lecture 156 - Linking the Tribe System with Building System
+Lecture 157 - Setting up Tribe Foundation Range
+Lecture 158 - Tribe Log Structure Event and Merge Structures
+Lecture 159 - Open Door Only if Tribe Member
+Lecture 159A - Fixing Tribe Log Time of Day
 
 */
 
